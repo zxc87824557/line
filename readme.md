@@ -1,6 +1,5 @@
-
+# id @589ksvbg
 # QR CODE
-## id @589ksvbg
 ![avatar](https://github.com/zxc87824557/line/blob/master/589ksvbg.png?raw=true)
 
 使用說明 輸入月份 只能輸入數字+月 會跑出當月新番<br>
