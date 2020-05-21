@@ -1,6 +1,7 @@
 # line
 
-QR CODE
+##QR CODE
+
 ![avatar](https://github.com/zxc87824557/line/blob/master/589ksvbg.png?raw=true)
 
 使用說明 輸入月份 會跑出當月新番
